@@ -8,39 +8,35 @@
 - [ ] Done
 
 3
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 4
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 5
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 6
-- [ ] in process
-- [ ] Done
-
-6
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 7
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 8
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 9
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 10
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 11
