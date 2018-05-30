@@ -1,10 +1,10 @@
 # TIMS
 1
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 2
-- [ ] in process
+- [x] in process
 - [ ] Done
 
 3
